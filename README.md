@@ -1,6 +1,8 @@
 # RUN and Survive 
 2D Game Project
+
 SWE 1-2 Project
+
 Things used for building this Game
 C++
 IGraphics
