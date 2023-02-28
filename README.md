@@ -12,10 +12,12 @@ How to install ?
 
 Download the Game
 
-Save it into a folder
-Run the file "Game.exe"
+Save it into a folder,
+Run the file "GameProject12FV.exe"
+
 Enjoy the Game
 
 * Must Needed Requirements *
-Operating System (Windows 8 / 10 / 11)
+
+Operating System (Windows 8 / 10 / 11).
 Visual Studio 2013 and All necessary file related to it must be installed 
