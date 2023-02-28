@@ -6,8 +6,10 @@ C++
 IGraphics
 Visual Studio 2013
 
-How to install ?
+How to install ? 
+
 Download the Game
+
 Save it into a folder
 Run the file "Game.exe"
 Enjoy the Game
